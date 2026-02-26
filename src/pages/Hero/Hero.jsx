@@ -50,12 +50,13 @@ export default function Hero() {
 
   const [code] = useState(`
 const profile = {
-    name: 'Nazmul Hossain',
+    name: 'Mahamad Gouse',
     title: 'Full-Stack Developer | Cloud Enthusiast | Problem Solver',
     skills: [
-        'React', 'NextJS', 'Redux', 'Express',
-        'MySQL', 'MongoDB', 'Docker', 'AWS', 'TypeScript',
-        'GraphQL', 'Git', 'Linux', 'Discord Development'
+        '.NET', 'C#', '.NET CORE', 'Web API,
+        'React', 'Angular', 'HTML', 'CSS',
+        'JS', 'SQL Server', 'MySQL', 'AZURE', 'TypeScript',
+        'Jenkins', 'Git', 'Linux', 'JAVA'
     ],
     hardWorker: true,
     quickLearner: true,
@@ -66,7 +67,7 @@ const profile = {
             this.hardWorker &&
             this.problemSolver &&
             this.skills.length >= 5 &&
-            this.yearsOfExperience >= 3
+            this.yearsOfExperience >= 6
         );
     }
 };
@@ -190,7 +191,7 @@ const profile = {
                     I&apos;m
                     <span className="typing-effect gradient-text">
                       {" "}
-                      Nazmul Hossain
+                      Mahamad Gouse
                     </span>
                   </span>
                 </h1>
