@@ -2,7 +2,7 @@ import { ReactLenis } from "lenis/react";
 import { useTransform, motion, useScroll } from "framer-motion";
 import { useRef, useEffect } from "react";
 import PropTypes from "prop-types";
-import {imgUrl} from "../../assets/images/1.png"
+import HeroImg from "@/assets/images/1.png";
 
 const projects = [
   {
@@ -10,7 +10,7 @@ const projects = [
     description:
       "A serverless Hospital Management System built with Vanilla JavaScript and Google Apps Script, using Google Sheets as a database for secure, role-based operations. It streamlines healthcare workflows with OTP authentication, automated PDF generation for prescriptions, and GST-compliant pharmacy billing.",
     src: "rock.jpg",
-    link: {imgUrl},
+    link: {HeroImg},
     color: "#5196fd",
     githubLink: "https://github.com/gouseshake0786/HMSDental",
     liveLink: "https://gouseshake0786.github.io/HMSDental/",
