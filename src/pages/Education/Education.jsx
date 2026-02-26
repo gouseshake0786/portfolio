@@ -18,8 +18,8 @@ const EducationSection = () => {
       degree: "B.Tech in Electronics and Communication Engineering",
       school: "Rajiv Gandhi University of Knowledge Technologies, RKValley",
       mascot: "📘",
-      year: "2011-2012",
-      achievements: ["GPA: 9.08"],
+      year: "2014-2018",
+      achievements: ["GPA: 8.08"],
       skills: ["NT", "Analog Electronics", "Digital Electronics", "Microprocessors", "Communication Systems"],
       description: "Graduated with a strong foundation in electronics and communication engineering, excelling in both theoretical concepts and practical applications."
     },
