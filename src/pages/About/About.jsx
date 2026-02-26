@@ -1,4 +1,4 @@
-import HeroImg from "@/assets/images/hero.jpg";
+import HeroImg from "@/assets/images/hero.jpg1";
 import OlovaLogo from "@/assets/images/olova.png";
 
 export default function About() {
@@ -24,7 +24,7 @@ export default function About() {
 
             <div className="relative space-y-4">
               <p className="text-white">
-                Hello! I'm Nazmul Hossain, a passionate JavaScript developer
+                Hello! I'm Mahamad Gouse, a passionate JavaScript developer
                 specializing in creating innovative web solutions and
                 user-friendly interfaces.{" "}
                 <span className="font-bold text-white">
@@ -51,7 +51,7 @@ export default function About() {
 
                   <div className="mt-6 space-y-3">
                     <cite className="block font-medium text-white">
-                      Nazmul Hossain, Creator of
+                      Mahamad Gouse, Creator of
                     </cite>
                     <div className="flex items-center gap-2">
                       <img
