@@ -15,25 +15,32 @@ const EducationSection = () => {
 
   const educationData = [
     {
-      degree: "Secondary School Certificate (SSC)",
-      school: "Natore Textile Institute",
+      degree: "B.Tech in Electronics and Communication Engineering",
+      school: "Rajiv Gandhi University of Knowledge Technologies, RKValley",
       mascot: "📘",
-      year: "2019-2021",
-      achievements: ["GPA: 4.89", "Subject: Science"],
-      skills: ["Mathematics", "Physics", "Chemistry", "Biology"],
-      description:
-        "Focused on core science subjects with emphasis on practical laboratory work and scientific research methodologies.",
+      year: "2011-2012",
+      achievements: ["GPA: 9.08"],
+      skills: ["NT", "Analog Electronics", "Digital Electronics", "Microprocessors", "Communication Systems"],
+      description: "Graduated with a strong foundation in electronics and communication engineering, excelling in both theoretical concepts and practical applications."
     },
     {
-      degree: "Higher Secondary Certificate (HSC)",
-      school: "Dottopara Model Degree College",
+      degree: "PUC (Intermediate)",
+      school: "Rajiv Gandhi University of Knowledge Technologies, RKValley",
       mascot: "📗",
-      year: "2021-2023",
-      achievements: ["GPA: 4.25", "Subject: Arts"],
-      skills: ["Literature", "Social Studies", "Economics", "History"],
-      description:
-        "Developed strong analytical and critical thinking skills through comprehensive study of humanities and social sciences.",
+      year: "2012-2014",
+      achievements: ["GPA: 7.22", "Subject: MPC"],
+      skills: ["Mathematics", "Physics", "Chemistry"],
+      description: "Completed intermediate education with a focus on Mathematics, Physics, and Chemistry, laying the groundwork for advanced studies in engineering."
     },
+    {
+      degree: "Secondary School Certificate (SSC)",
+      school: "ZPHS School, Peddapappur",
+      mascot: "📕",
+      year: "2011-2012",
+      achievements: ["GPA: 9.7"],
+      skills: ["Telugu", "English", "Mathematics", "Physics", "Chemistry", "Biology"],
+      description: "Achieved outstanding academic performance in secondary education, demonstrating excellence across a broad range of subjects."
+    }    
   ];
 
   const containerVariants = {
