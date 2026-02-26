@@ -53,7 +53,7 @@ const profile = {
     name: 'Mahamad Gouse',
     title: 'Full-Stack Developer | Cloud Enthusiast | Problem Solver',
     skills: [
-        '.NET', 'C#', '.NET CORE', 'Web API,
+        '.NET', 'C#', '.NET CORE', 'Web API',
         'React', 'Angular', 'HTML', 'CSS',
         'JS', 'SQL Server', 'MySQL', 'AZURE', 'TypeScript',
         'Jenkins', 'Git', 'Linux', 'JAVA'
