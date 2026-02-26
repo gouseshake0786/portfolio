@@ -54,28 +54,21 @@ const ExperienceCard = ({
 const ExperienceSection = () => {
   const experiences = [
     {
-      icon: Network,
-      title: "WordPress Developer",
-      company: "Fiverr",
-      period: "2019 - 2020",
-      description:
-        "Worked on developing and customizing WordPress websites for clients globally.",
-    },
-    {
       icon: Layers,
-      title: "Junior Frontend Developer",
-      company: "Sera Programmer",
-      period: "2021 - 2023",
+      title: "Software Engineer",
+      company: "Fidelity Investment",
+      period: "2022 - present",
       description:
-        "Assisted in building and optimizing user interfaces with a focus on responsive and interactive designs.",
+        "Modernized monolithic systems into scalable microservices on AWS EKS & Azure AKS, improving scalability by 40% and reducing costs.
+Built high-performance .NET Core REST APIs and enterprise Angular applications, delivering 98%+ defect-free releases in Agile environment",
     },
     {
       icon: Code2,
-      title: "JavaScript Developer",
-      company: "OlovJS (Sera Programmer)",
-      period: "2023 - Present",
+      title: "Software Engineer",
+      company: "ACCENTURE",
+      period: "2019 - 2022",
       description:
-        "Contributed to developing JavaScript libraries and enhancing framework functionalities.",
+        "Built AI-powered chatbots using Azure Cognitive Services and led AngularJS to Angular 10 migration. Improved deployment efficiency using Azure DevOps CI/CD and reduced release cycles significantly. Awarded GEM Award for exceptional delivery.",
     },
   ];
 
