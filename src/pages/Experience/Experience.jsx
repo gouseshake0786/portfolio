@@ -59,8 +59,7 @@ const ExperienceSection = () => {
       company: "Fidelity Investment",
       period: "2022 - present",
       description:
-        "Modernized monolithic systems into scalable microservices on AWS EKS & Azure AKS, improving scalability by 40% and reducing costs.
-Built high-performance .NET Core REST APIs and enterprise Angular applications, delivering 98%+ defect-free releases in Agile environment",
+        "Modernized monolithic systems into scalable microservices on AWS EKS & Azure AKS, improving scalability by 40% and reducing costs.Built high-performance .NET Core REST APIs and enterprise Angular applications, delivering 98%+ defect-free releases in Agile environment",
     },
     {
       icon: Code2,
